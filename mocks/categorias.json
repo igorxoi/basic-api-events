@@ -1,0 +1,10 @@
+[
+  { "id": 1, "nome": "Shows e Concertos" },
+  { "id": 2, "nome": "Teatro" },
+  { "id": 3, "nome": "Dança" },
+  { "id": 4, "nome": "Exposições de Arte" },
+  { "id": 5, "nome": "Cinema" },
+  { "id": 6, "nome": "Festivais" },
+  { "id": 7, "nome": "Stand-up Comedy" },
+  { "id": 8, "nome": "Baladas e Festas" }
+]

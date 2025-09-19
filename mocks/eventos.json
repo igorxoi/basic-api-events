@@ -1,0 +1,3202 @@
+[
+  {
+    "id": 1,
+    "categoryId": 1,
+    "name": "Show da Banda Aurora",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "date": "2025-10-01",
+    "address": {
+      "latitude": -23.5629,
+      "longitude": -46.6544,
+      "zipCode": "01311-100",
+      "street": "Av. Paulista",
+      "number": "1000",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Os participantes poderão assistir apresentações ao vivo e interagir com os artistas."
+  },
+  {
+    "id": 2,
+    "categoryId": 1,
+    "name": "Concerto Sinfônico da Orquestra Jovem",
+    "startTime": "18:00",
+    "endTime": "20:30",
+    "date": "2025-10-02",
+    "address": {
+      "latitude": -23.5507,
+      "longitude": -46.6601,
+      "zipCode": "01321-000",
+      "street": "Rua Augusta",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Evento gratuito, com acesso por ordem de chegada e atividades ao longo do dia."
+  },
+  {
+    "id": 3,
+    "categoryId": 1,
+    "name": "Festival Rock Alternativo",
+    "startTime": "16:00",
+    "endTime": "23:30",
+    "date": "2025-10-03",
+    "address": {
+      "latitude": -23.5666,
+      "longitude": -46.6901,
+      "zipCode": "01410-000",
+      "street": "Rua Haddock Lobo",
+      "number": "200",
+      "logradouro": "Rua",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Inclui oficinas, palestras e shows em diferentes horários."
+  },
+  {
+    "id": 4,
+    "categoryId": 1,
+    "name": "Samba na Praça",
+    "startTime": "14:00",
+    "endTime": "18:00",
+    "date": "2025-10-04",
+    "address": {
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "zipCode": "01020-000",
+      "street": "Praça da Sé",
+      "number": "s/n",
+      "logradouro": "Praça",
+      "neighborhood": "Sé",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Atrações musicais e culturais acontecendo simultaneamente em diferentes espaços."
+  },
+  {
+    "id": 5,
+    "categoryId": 1,
+    "name": "Noite do Jazz",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "date": "2025-10-05",
+    "address": {
+      "latitude": -23.5703,
+      "longitude": -46.6661,
+      "zipCode": "01415-001",
+      "street": "Rua Oscar Freire",
+      "number": "120",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "O público poderá participar de debates e sessões interativas."
+  },
+  {
+    "id": 6,
+    "categoryId": 1,
+    "name": "Show Sertanejo",
+    "startTime": "21:00",
+    "endTime": "00:00",
+    "date": "2025-10-06",
+    "address": {
+      "latitude": -23.5847,
+      "longitude": -46.6735,
+      "zipCode": "01425-000",
+      "street": "Av. Brigadeiro Faria Lima",
+      "number": "100",
+      "logradouro": "Avenida",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Shows ao ar livre com estrutura de alimentação e banheiros disponíveis."
+  },
+  {
+    "id": 7,
+    "categoryId": 1,
+    "name": "MPB ao Luar",
+    "startTime": "20:00",
+    "endTime": "22:30",
+    "date": "2025-10-07",
+    "address": {
+      "latitude": -23.5703,
+      "longitude": -46.6661,
+      "zipCode": "01430-001",
+      "street": "Rua Estados Unidos",
+      "number": "150",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Atividades práticas e demonstrações de artistas locais."
+  },
+  {
+    "id": 8,
+    "categoryId": 1,
+    "name": "Tributo Legião Urbana",
+    "startTime": "19:30",
+    "endTime": "22:00",
+    "date": "2025-10-08",
+    "address": {
+      "latitude": -23.5507,
+      "longitude": -46.6601,
+      "zipCode": "01440-001",
+      "street": "Rua Augusta",
+      "number": "300",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Evento intimista com número limitado de participantes."
+  },
+  {
+    "id": 9,
+    "categoryId": 1,
+    "name": "Festival Regional",
+    "startTime": "15:00",
+    "endTime": "21:00",
+    "date": "2025-10-09",
+    "address": {
+      "latitude": -23.5507,
+      "longitude": -46.6601,
+      "zipCode": "01500-001",
+      "street": "Rua da Consolação",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Apresentações e workshops para todas as idades."
+  },
+  {
+    "id": 10,
+    "categoryId": 1,
+    "name": "Show Acústico no Parque",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "date": "2025-10-10",
+    "address": {
+      "latitude": -23.6012,
+      "longitude": -46.6601,
+      "zipCode": "01510-001",
+      "street": "Parque Ibirapuera",
+      "number": "s/n",
+      "logradouro": "Parque",
+      "neighborhood": "Moema",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Exposições e performances com interação direta do público."
+  },
+  {
+    "id": 11,
+    "categoryId": 1,
+    "name": "Coral de Natal",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "date": "2025-12-20",
+    "address": {
+      "latitude": -23.5629,
+      "longitude": -46.6544,
+      "zipCode": "01320-001",
+      "street": "Av. Paulista",
+      "number": "1500",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Apresentação de coral natalino com repertório clássico e popular."
+  },
+  {
+    "id": 12,
+    "categoryId": 1,
+    "name": "Rock na Praça",
+    "startTime": "18:00",
+    "endTime": "23:00",
+    "date": "2025-10-19",
+    "address": {
+      "latitude": -23.5433,
+      "longitude": -46.6424,
+      "zipCode": "01002-000",
+      "street": "Praça da República",
+      "number": "s/n",
+      "logradouro": "Praça",
+      "neighborhood": "República",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Bandas de rock locais se apresentam ao ar livre."
+  },
+  {
+    "id": 13,
+    "categoryId": 1,
+    "name": "Concerto de Piano",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "date": "2025-11-18",
+    "address": {
+      "latitude": -23.5703,
+      "longitude": -46.6661,
+      "zipCode": "01420-001",
+      "street": "Rua Oscar Freire",
+      "number": "200",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Concerto solo de piano com repertório erudito e popular."
+  },
+  {
+    "id": 14,
+    "categoryId": 1,
+    "name": "Show Gospel",
+    "startTime": "19:30",
+    "endTime": "22:00",
+    "date": "2025-11-22",
+    "address": {
+      "latitude": -23.5507,
+      "longitude": -46.6601,
+      "zipCode": "01025-001",
+      "street": "Av. Brigadeiro Luís Antônio",
+      "number": "400",
+      "logradouro": "Avenida",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Evento gospel com apresentações de corais e cantores regionais."
+  },
+  {
+    "id": 15,
+    "categoryId": 1,
+    "name": "Noite de Chorinho",
+    "startTime": "20:00",
+    "endTime": "22:30",
+    "date": "2025-10-10",
+    "address": {
+      "latitude": -23.5507,
+      "longitude": -46.6601,
+      "zipCode": "01330-001",
+      "street": "Rua da Consolação",
+      "number": "700",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "descricao": "Apresentação de chorinho tradicional com músicos locais."
+  },
+  {
+    "id": 16,
+    "categoryId": 1,
+    "name": "Show de Reggae",
+    "startTime": "21:00",
+    "endTime": "23:30",
+    "date": "2025-09-29",
+    "address": {
+      "zipCode": "01405-001",
+      "street": "Rua Augusta",
+      "number": "450",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Evento de reggae com bandas locais e convidados especiais."
+  },
+  {
+    "id": 17,
+    "categoryId": 1,
+    "name": "Show de Rap",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "date": "2025-10-07",
+    "address": {
+      "zipCode": "01306-001",
+      "street": "Av. São João",
+      "number": "300",
+      "logradouro": "Avenida",
+      "neighborhood": "Centro",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5493,
+      "longitude": -46.6392
+    },
+    "descricao": "Apresentação de rappers locais e batalhas de freestyle."
+  },
+  {
+    "id": 18,
+    "categoryId": 1,
+    "name": "Concerto Coral Universitário",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "date": "2025-10-18",
+    "address": {
+      "zipCode": "01323-001",
+      "street": "Av. Paulista",
+      "number": "1200",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5577,
+      "longitude": -46.6489
+    },
+    "descricao": "Concerto coral com participação de estudantes universitários."
+  },
+  {
+    "id": 19,
+    "categoryId": 1,
+    "name": "Noite Instrumental",
+    "startTime": "19:00",
+    "endTime": "21:30",
+    "date": "2025-10-21",
+    "address": {
+      "zipCode": "01414-001",
+      "street": "Rua Oscar Freire",
+      "number": "80",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Apresentações instrumentais com interação do público."
+  },
+  {
+    "id": 20,
+    "categoryId": 1,
+    "name": "Festival de Música Popular",
+    "startTime": "15:00",
+    "endTime": "22:00",
+    "date": "2025-10-30",
+    "address": {
+      "zipCode": "01325-001",
+      "street": "Rua Augusta",
+      "number": "600",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Festival com apresentações de diferentes estilos musicais populares."
+  },
+  {
+    "id": 21,
+    "categoryId": 2,
+    "name": "Peça Infantil: A Floresta Encantada",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "date": "2025-10-02",
+    "address": {
+      "zipCode": "01311-000",
+      "street": "Rua Augusta",
+      "number": "120",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Apresentação interativa para crianças com músicas e histórias educativas."
+  },
+  {
+    "id": 22,
+    "categoryId": 2,
+    "name": "Teatro Adulto: Mistérios da Cidade",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "date": "2025-10-03",
+    "address": {
+      "zipCode": "01410-000",
+      "street": "Rua Haddock Lobo",
+      "number": "300",
+      "logradouro": "Rua",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5628,
+      "longitude": -46.6665
+    },
+    "descricao": "Peça dramática explorando o cotidiano urbano com interação mínima do público."
+  },
+  {
+    "id": 23,
+    "categoryId": 2,
+    "name": "Comédia Musical: Rindo à Toa",
+    "startTime": "20:00",
+    "endTime": "22:00",
+    "date": "2025-10-04",
+    "address": {
+      "zipCode": "01415-001",
+      "street": "Rua Oscar Freire",
+      "number": "150",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Comédia musical com participação do público em pequenas interações."
+  },
+  {
+    "id": 24,
+    "categoryId": 2,
+    "name": "Peça Infantil: Aventuras no Circo",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "date": "2025-10-05",
+    "address": {
+      "zipCode": "01020-000",
+      "street": "Praça da Sé",
+      "number": "s/n",
+      "logradouro": "Praça",
+      "neighborhood": "Sé",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5503,
+      "longitude": -46.6339
+    },
+    "descricao": "Histórias e atividades circenses para crianças, estimulando a imaginação."
+  },
+  {
+    "id": 25,
+    "categoryId": 2,
+    "name": "Peça Dramática: Ecos do Passado",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "date": "2025-10-06",
+    "address": {
+      "zipCode": "01425-000",
+      "street": "Av. Brigadeiro Faria Lima",
+      "number": "200",
+      "logradouro": "Avenida",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5818,
+      "longitude": -46.6799
+    },
+    "descricao": "Peça com debate final sobre os temas abordados para interação do público."
+  },
+  {
+    "id": 26,
+    "categoryId": 2,
+    "name": "Musical: Canções da Cidade",
+    "startTime": "20:00",
+    "endTime": "22:30",
+    "date": "2025-10-07",
+    "address": {
+      "zipCode": "01430-001",
+      "street": "Rua Estados Unidos",
+      "number": "220",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Apresentação musical com histórias urbanas e participação do público."
+  },
+  {
+    "id": 27,
+    "categoryId": 2,
+    "name": "Peça Infantil: O Reino das Cores",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "date": "2025-10-08",
+    "address": {
+      "zipCode": "01320-001",
+      "street": "Av. Paulista",
+      "number": "1500",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5577,
+      "longitude": -46.6489
+    },
+    "descricao": "História lúdica para crianças com interação e atividades manuais."
+  },
+  {
+    "id": 28,
+    "categoryId": 2,
+    "name": "Teatro Adulto: Noite de Mistérios",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "date": "2025-10-09",
+    "address": {
+      "zipCode": "01440-001",
+      "street": "Rua Augusta",
+      "number": "300",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Peça com suspense e participação do público em momentos interativos."
+  },
+  {
+    "id": 29,
+    "categoryId": 2,
+    "name": "Comédia Stand-up Teatral",
+    "startTime": "20:30",
+    "endTime": "22:30",
+    "date": "2025-10-10",
+    "address": {
+      "zipCode": "01450-001",
+      "street": "Rua Pamplona",
+      "number": "450",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Comédia interativa onde o público pode participar de brincadeiras cênicas."
+  },
+  {
+    "id": 30,
+    "categoryId": 2,
+    "name": "Peça Experimental: Luz e Sombra",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "date": "2025-10-11",
+    "address": {
+      "zipCode": "01010-001",
+      "street": "Rua da Consolação",
+      "number": "700",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Peça experimental com interação sensorial do público."
+  },
+  {
+    "id": 31,
+    "categoryId": 2,
+    "name": "Musical Infantil: Aventuras na Cidade",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "date": "2025-10-12",
+    "address": {
+      "zipCode": "01500-001",
+      "street": "Rua da Consolação",
+      "number": "400",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Musical para crianças com atividades de canto e dança interativa."
+  },
+  {
+    "id": 32,
+    "categoryId": 2,
+    "name": "Peça Dramática: Vidas Cruzadas",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "date": "2025-10-13",
+    "address": {
+      "zipCode": "01020-001",
+      "street": "Rua Augusta",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Peça dramática abordando relações humanas e debates com o público."
+  },
+  {
+    "id": 33,
+    "categoryId": 2,
+    "name": "Comédia Musical: Rindo Sempre",
+    "startTime": "20:00",
+    "endTime": "22:00",
+    "date": "2025-10-14",
+    "address": {
+      "zipCode": "01420-001",
+      "street": "Rua Oscar Freire",
+      "number": "250",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Comédia musical divertida com participação do público."
+  },
+  {
+    "id": 34,
+    "categoryId": 2,
+    "name": "Teatro Adulto: Reflexões Urbanas",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "date": "2025-10-15",
+    "address": {
+      "zipCode": "01425-001",
+      "street": "Av. Paulista",
+      "number": "1600",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5577,
+      "longitude": -46.6489
+    },
+    "descricao": "Peça que promove reflexão sobre a vida urbana e interação com o público."
+  },
+  {
+    "id": 35,
+    "categoryId": 2,
+    "name": "Musical Infantil: Canções e Histórias",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "date": "2025-10-16",
+    "address": {
+      "zipCode": "01330-001",
+      "street": "Rua da Consolação",
+      "number": "600",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Histórias contadas em formato musical com participação das crianças."
+  },
+  {
+    "id": 36,
+    "categoryId": 2,
+    "name": "Peça Experimental: Movimentos e Luz",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "date": "2025-10-17",
+    "address": {
+      "zipCode": "01440-001",
+      "street": "Rua Augusta",
+      "number": "350",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Peça experimental com exploração de luz e movimento e participação do público."
+  },
+  {
+    "id": 37,
+    "categoryId": 2,
+    "name": "Comédia para Adultos: Risos na Cidade",
+    "startTime": "20:00",
+    "endTime": "22:00",
+    "date": "2025-10-18",
+    "address": {
+      "zipCode": "01450-001",
+      "street": "Rua Pamplona",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Comédia com interações leves com o público adulto."
+  },
+  {
+    "id": 38,
+    "categoryId": 2,
+    "name": "Teatro Musical: Canções da Infância",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "date": "2025-10-19",
+    "address": {
+      "zipCode": "01510-001",
+      "street": "Rua da Consolação",
+      "number": "800",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Musical infantil com atividades de canto e dança."
+  },
+  {
+    "id": 39,
+    "categoryId": 2,
+    "name": "Peça Dramática: Encontros Urbanos",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "date": "2025-10-20",
+    "address": {
+      "zipCode": "01520-001",
+      "street": "Rua Augusta",
+      "number": "400",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Peça dramática com debates sobre relações humanas na cidade."
+  },
+  {
+    "id": 40,
+    "categoryId": 2,
+    "name": "Comédia Musical: Rindo e Cantando",
+    "startTime": "20:00",
+    "endTime": "22:00",
+    "date": "2025-10-21",
+    "address": {
+      "zipCode": "01460-001",
+      "street": "Rua Oscar Freire",
+      "number": "300",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Comédia musical divertida com participação do público em pequenas cenas."
+  },
+  {
+    "id": 41,
+    "categoryId": 3,
+    "name": "Ballet Clássico - O Lago dos Cisnes",
+    "startTime": "19:30",
+    "endTime": "22:00",
+    "date": "2025-10-15",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Augusta",
+      "number": "1223",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Apresentação do clássico ballet O Lago dos Cisnes com orquestra ao vivo."
+  },
+  {
+    "id": 42,
+    "categoryId": 3,
+    "name": "Dança Contemporânea - Movimento Urbano",
+    "startTime": "20:00",
+    "endTime": "21:30",
+    "date": "2025-10-18",
+    "address": {
+      "zipCode": "04018-000",
+      "street": "Rua Vergueiro",
+      "number": "1000",
+      "logradouro": "Rua",
+      "neighborhood": "Paraíso",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5711,
+      "longitude": -46.6419
+    },
+    "descricao": "Espetáculo de dança contemporânea que explora os movimentos urbanos."
+  },
+  {
+    "id": 43,
+    "categoryId": 3,
+    "name": "Festival de Danças Latinas",
+    "startTime": "18:00",
+    "endTime": "23:00",
+    "date": "2025-10-20",
+    "address": {
+      "zipCode": "01308-000",
+      "street": "Avenida Paulista",
+      "number": "1515",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5577,
+      "longitude": -46.6489
+    },
+    "descricao": "Noite de salsa, bachata e outros ritmos latinos com apresentações e aulas."
+  },
+  {
+    "id": 44,
+    "categoryId": 3,
+    "name": "Hip Hop Dance Battle",
+    "startTime": "14:00",
+    "endTime": "20:00",
+    "date": "2025-10-25",
+    "address": {
+      "zipCode": "03323-010",
+      "street": "Rua Tuiuti",
+      "number": "515",
+      "logradouro": "Rua",
+      "neighborhood": "Tatuapé",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5379,
+      "longitude": -46.5753
+    },
+    "descricao": "Competição de dança de rua com premiação e shows especiais."
+  },
+  {
+    "id": 45,
+    "categoryId": 3,
+    "name": "Dança do Ventre - Noite Oriental",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "date": "2025-11-01",
+    "address": {
+      "zipCode": "04571-010",
+      "street": "Avenida Brigadeiro Faria Lima",
+      "number": "2232",
+      "logradouro": "Avenida",
+      "neighborhood": "Jardim Paulistano",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5814,
+      "longitude": -46.6738
+    },
+    "descricao": "Apresentação de dança do ventre com música ao vivo e jantar típico."
+  },
+  {
+    "id": 46,
+    "categoryId": 3,
+    "name": "Workshop de Forró",
+    "startTime": "15:00",
+    "endTime": "19:00",
+    "date": "2025-11-05",
+    "address": {
+      "zipCode": "01222-020",
+      "street": "Rua Martim Francisco",
+      "number": "420",
+      "logradouro": "Rua",
+      "neighborhood": "Santa Cecília",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5417,
+      "longitude": -46.6501
+    },
+    "descricao": "Aulas de forró para iniciantes e intermediários com baile no final."
+  },
+  {
+    "id": 47,
+    "categoryId": 3,
+    "name": "Tango Argentino",
+    "startTime": "20:30",
+    "endTime": "23:30",
+    "date": "2025-11-10",
+    "address": {
+      "zipCode": "05416-010",
+      "street": "Rua dos Pinheiros",
+      "number": "855",
+      "logradouro": "Rua",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5617,
+      "longitude": -46.6792
+    },
+    "descricao": "Milonga com apresentação de maestros argentinos."
+  },
+  {
+    "id": 48,
+    "categoryId": 3,
+    "name": "Jazz Dance Show",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "date": "2025-11-15",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Joaquim Floriano",
+      "number": "466",
+      "logradouro": "Rua",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5818,
+      "longitude": -46.6799
+    },
+    "descricao": "Espetáculo de jazz dance com coreografias inspiradas na Broadway."
+  },
+  {
+    "id": 49,
+    "categoryId": 3,
+    "name": "Dança Flamenca",
+    "startTime": "20:00",
+    "endTime": "22:30",
+    "date": "2025-11-20",
+    "address": {
+      "zipCode": "01414-000",
+      "street": "Rua Haddock Lobo",
+      "number": "1327",
+      "logradouro": "Rua",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5628,
+      "longitude": -46.6665
+    },
+    "descricao": "Show de flamenco com guitarristas e cantores espanhóis."
+  },
+  {
+    "id": 50,
+    "categoryId": 3,
+    "name": "Festival de Danças Folclóricas",
+    "startTime": "16:00",
+    "endTime": "21:00",
+    "date": "2025-11-25",
+    "address": {
+      "zipCode": "01310-100",
+      "street": "Rua Oscar Freire",
+      "number": "2233",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Apresentações de danças tradicionais de diferentes regiões do Brasil."
+  },
+  {
+    "id": 51,
+    "categoryId": 3,
+    "name": "Break Dance Championship",
+    "startTime": "13:00",
+    "endTime": "19:00",
+    "date": "2025-12-01",
+    "address": {
+      "zipCode": "05305-006",
+      "street": "Avenida Francisco Matarazzo",
+      "number": "694",
+      "logradouro": "Avenida",
+      "neighborhood": "Água Branca",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5288,
+      "longitude": -46.6695
+    },
+    "descricao": "Campeonato de break dance com b-boys e b-girls de todo o país."
+  },
+  {
+    "id": 52,
+    "categoryId": 3,
+    "name": "Balé Moderno - Primavera",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "date": "2025-12-05",
+    "address": {
+      "zipCode": "01220-010",
+      "street": "Rua Amaral Gurgel",
+      "number": "211",
+      "logradouro": "Rua",
+      "neighborhood": "Vila Buarque",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5446,
+      "longitude": -46.6501
+    },
+    "descricao": "Espetáculo de balé contemporâneo inspirado nas estações do ano."
+  },
+  {
+    "id": 53,
+    "categoryId": 3,
+    "name": "Dança de Rua - Urban Moves",
+    "startTime": "15:00",
+    "endTime": "20:00",
+    "date": "2025-12-10",
+    "address": {
+      "zipCode": "04101-300",
+      "street": "Rua Vergueiro",
+      "number": "2123",
+      "logradouro": "Rua",
+      "neighborhood": "Vila Mariana",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5868,
+      "longitude": -46.6393
+    },
+    "descricao": "Festival de dança urbana com workshops e batalhas."
+  },
+  {
+    "id": 54,
+    "categoryId": 3,
+    "name": "Sapateado Show",
+    "startTime": "20:00",
+    "endTime": "22:00",
+    "date": "2025-12-15",
+    "address": {
+      "zipCode": "01311-300",
+      "street": "Rua Augusta",
+      "number": "1600",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Apresentação de sapateado americano e irlandês."
+  },
+  {
+    "id": 55,
+    "categoryId": 3,
+    "name": "Dança Contemporânea - Expressões",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "date": "2025-12-20",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Alameda Santos",
+      "number": "1000",
+      "logradouro": "Alameda",
+      "neighborhood": "Jardim Paulista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Espetáculo de dança contemporânea explorando emoções humanas."
+  },
+  {
+    "id": 56,
+    "categoryId": 3,
+    "name": "Samba de Gafieira",
+    "startTime": "21:00",
+    "endTime": "02:00",
+    "date": "2025-12-25",
+    "address": {
+      "zipCode": "01123-010",
+      "street": "Rua Barão de Limeira",
+      "number": "333",
+      "logradouro": "Rua",
+      "neighborhood": "Campos Elíseos",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5341,
+      "longitude": -46.6475
+    },
+    "descricao": "Baile de samba de gafieira com orquestra ao vivo."
+  },
+  {
+    "id": 57,
+    "categoryId": 3,
+    "name": "Pole Dance Exhibition",
+    "startTime": "19:30",
+    "endTime": "22:30",
+    "date": "2025-12-28",
+    "address": {
+      "zipCode": "04532-000",
+      "street": "Rua João Cachoeira",
+      "number": "899",
+      "logradouro": "Rua",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5818,
+      "longitude": -46.6799
+    },
+    "descricao": "Apresentação artística de pole dance com atletas profissionais."
+  },
+  {
+    "id": 58,
+    "categoryId": 3,
+    "name": "Dança Afro-Brasileira",
+    "startTime": "16:00",
+    "endTime": "19:00",
+    "date": "2026-01-05",
+    "address": {
+      "zipCode": "05003-020",
+      "street": "Rua Clélia",
+      "number": "93",
+      "logradouro": "Rua",
+      "neighborhood": "Pompeia",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5284,
+      "longitude": -46.6834
+    },
+    "descricao": "Celebração da cultura afro-brasileira através da dança."
+  },
+  {
+    "id": 59,
+    "categoryId": 3,
+    "name": "K-pop Dance Party",
+    "startTime": "14:00",
+    "endTime": "20:00",
+    "date": "2026-01-10",
+    "address": {
+      "zipCode": "01308-000",
+      "street": "Rua da Consolação",
+      "number": "2200",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Encontro de fãs de K-pop com apresentações de grupos cover."
+  },
+  {
+    "id": 60,
+    "categoryId": 3,
+    "name": "Dança Circular Sagrada",
+    "startTime": "17:00",
+    "endTime": "20:00",
+    "date": "2026-01-15",
+    "address": {
+      "zipCode": "04524-001",
+      "street": "Rua Tabapuã",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5818,
+      "longitude": -46.6799
+    },
+    "descricao": "Experiência de danças circulares tradicionais do mundo todo."
+  },
+  {
+    "id": 61,
+    "categoryId": 4,
+    "name": "Exposição de Arte Moderna - Vanguardas",
+    "startTime": "10:00",
+    "endTime": "20:00",
+    "date": "2025-10-15",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Augusta",
+      "number": "2075",
+      "logradouro": "Rua",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5628,
+      "longitude": -46.6665
+    },
+    "descricao": "Exposição de obras modernistas com curadoria internacional."
+  },
+  {
+    "id": 62,
+    "categoryId": 4,
+    "name": "Arte Digital Interativa",
+    "startTime": "11:00",
+    "endTime": "21:00",
+    "date": "2025-10-20",
+    "address": {
+      "zipCode": "04094-050",
+      "street": "Rua Vergueiro",
+      "number": "1000",
+      "logradouro": "Rua",
+      "neighborhood": "Paraíso",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5711,
+      "longitude": -46.6419
+    },
+    "descricao": "Instalações digitais interativas com artistas contemporâneos."
+  },
+  {
+    "id": 63,
+    "categoryId": 4,
+    "name": "Fotografia Urbana - SP em Foco",
+    "startTime": "09:00",
+    "endTime": "19:00",
+    "date": "2025-10-25",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Avenida Paulista",
+      "number": "1578",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5577,
+      "longitude": -46.6489
+    },
+    "descricao": "Mostra fotográfica sobre a vida urbana em São Paulo."
+  },
+  {
+    "id": 64,
+    "categoryId": 4,
+    "name": "Esculturas Contemporâneas",
+    "startTime": "10:00",
+    "endTime": "18:00",
+    "date": "2025-11-01",
+    "address": {
+      "zipCode": "01426-000",
+      "street": "Rua Oscar Freire",
+      "number": "2500",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Exposição de esculturas modernas em diferentes materiais."
+  },
+  {
+    "id": 65,
+    "categoryId": 4,
+    "name": "Arte Indígena Brasileira",
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "date": "2025-11-05",
+    "address": {
+      "zipCode": "04094-050",
+      "street": "Rua Pedro Álvares Cabral",
+      "number": "1301",
+      "logradouro": "Rua",
+      "neighborhood": "Ibirapuera",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5874,
+      "longitude": -46.6576
+    },
+    "descricao": "Exposição de arte e artesanato indígena contemporâneo."
+  },
+  {
+    "id": 66,
+    "categoryId": 4,
+    "name": "Pinturas a Óleo - Mestres Brasileiros",
+    "startTime": "10:00",
+    "endTime": "19:00",
+    "date": "2025-11-10",
+    "address": {
+      "zipCode": "01310-100",
+      "street": "Alameda Campinas",
+      "number": "150",
+      "logradouro": "Alameda",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5577,
+      "longitude": -46.6489
+    },
+    "descricao": "Retrospectiva de grandes pintores brasileiros do século XX."
+  },
+  {
+    "id": 67,
+    "categoryId": 4,
+    "name": "Street Art Gallery",
+    "startTime": "14:00",
+    "endTime": "22:00",
+    "date": "2025-11-15",
+    "address": {
+      "zipCode": "05409-002",
+      "street": "Rua dos Pinheiros",
+      "number": "635",
+      "logradouro": "Rua",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5665,
+      "longitude": -46.6907
+    },
+    "descricao": "Exposição de arte urbana com artistas locais e internacionais."
+  },
+  {
+    "id": 68,
+    "categoryId": 4,
+    "name": "Cerâmica Contemporânea",
+    "startTime": "10:00",
+    "endTime": "20:00",
+    "date": "2025-11-20",
+    "address": {
+      "zipCode": "01314-000",
+      "street": "Rua Augusta",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Mostra de cerâmica artística contemporânea brasileira."
+  },
+  {
+    "id": 69,
+    "categoryId": 4,
+    "name": "Arte Têxtil - Tecendo História",
+    "startTime": "11:00",
+    "endTime": "19:00",
+    "date": "2025-11-25",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Alameda Santos",
+      "number": "1000",
+      "logradouro": "Alameda",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5628,
+      "longitude": -46.6665
+    },
+    "descricao": "Exposição de tapeçaria e arte têxtil contemporânea."
+  },
+  {
+    "id": 70,
+    "categoryId": 4,
+    "name": "Videoarte - Narrativas Digitais",
+    "startTime": "13:00",
+    "endTime": "21:00",
+    "date": "2025-12-01",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua da Consolação",
+      "number": "2403",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Festival de videoarte e instalações audiovisuais."
+  },
+  {
+    "id": 71,
+    "categoryId": 4,
+    "name": "Arte Conceitual - Pensamento e Forma",
+    "startTime": "10:00",
+    "endTime": "18:00",
+    "date": "2025-12-05",
+    "address": {
+      "zipCode": "01310-100",
+      "street": "Avenida Brigadeiro Luís Antônio",
+      "number": "4700",
+      "logradouro": "Avenida",
+      "neighborhood": "Jardim Paulista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Exposição de arte conceitual com artistas internacionais."
+  },
+  {
+    "id": 72,
+    "categoryId": 4,
+    "name": "Gravuras e Litografias",
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "date": "2025-12-10",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Pamplona",
+      "number": "145",
+      "logradouro": "Rua",
+      "neighborhood": "Jardim Paulista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Mostra de gravuras e litografias de artistas brasileiros."
+  },
+  {
+    "id": 73,
+    "categoryId": 4,
+    "name": "Arte Latino-Americana",
+    "startTime": "10:00",
+    "endTime": "20:00",
+    "date": "2025-12-15",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Rua Itapeva",
+      "number": "538",
+      "logradouro": "Rua",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5577,
+      "longitude": -46.6489
+    },
+    "descricao": "Exposição coletiva de artistas latino-americanos contemporâneos."
+  },
+  {
+    "id": 74,
+    "categoryId": 4,
+    "name": "Performance Art Week",
+    "startTime": "14:00",
+    "endTime": "22:00",
+    "date": "2025-12-20",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua João Cachoeira",
+      "number": "899",
+      "logradouro": "Rua",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5818,
+      "longitude": -46.6799
+    },
+    "descricao": "Semana de performances artísticas com artistas nacionais."
+  },
+  {
+    "id": 75,
+    "categoryId": 4,
+    "name": "Aquarelas - Cores da Cidade",
+    "startTime": "10:00",
+    "endTime": "19:00",
+    "date": "2025-12-25",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Alameda Franca",
+      "number": "1088",
+      "logradouro": "Alameda",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Exposição de aquarelas retratando paisagens urbanas."
+  },
+  {
+    "id": 76,
+    "categoryId": 4,
+    "name": "Arte e Tecnologia",
+    "startTime": "11:00",
+    "endTime": "21:00",
+    "date": "2025-12-30",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Joaquim Floriano",
+      "number": "466",
+      "logradouro": "Rua",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5818,
+      "longitude": -46.6799
+    },
+    "descricao": "Exposição interativa de arte digital e realidade aumentada."
+  },
+  {
+    "id": 77,
+    "categoryId": 4,
+    "name": "Instalações Sonoras",
+    "startTime": "12:00",
+    "endTime": "20:00",
+    "date": "2026-01-05",
+    "address": {
+      "zipCode": "01310-100",
+      "street": "Rua Bela Cintra",
+      "number": "2029",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Exposição de arte sonora e instalações acústicas."
+  },
+  {
+    "id": 78,
+    "categoryId": 4,
+    "name": "Artes Visuais - Novos Talentos",
+    "startTime": "10:00",
+    "endTime": "18:00",
+    "date": "2026-01-10",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Estados Unidos",
+      "number": "2111",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Mostra coletiva de artistas emergentes paulistanos."
+  },
+  {
+    "id": 79,
+    "categoryId": 4,
+    "name": "Memória Fotográfica",
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "date": "2026-01-15",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Rua Gabriel Monteiro da Silva",
+      "number": "1010",
+      "logradouro": "Rua",
+      "neighborhood": "Jardim América",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Exposição de fotografias históricas de São Paulo."
+  },
+  {
+    "id": 80,
+    "categoryId": 4,
+    "name": "Arte Popular Brasileira",
+    "startTime": "10:00",
+    "endTime": "19:00",
+    "date": "2026-01-20",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Oscar Freire",
+      "number": "530",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Mostra de arte popular de diferentes regiões do Brasil."
+  },
+  {
+    "id": 81,
+    "categoryId": 5,
+    "name": "Mostra de Cinema Europeu",
+    "startTime": "19:00",
+    "endTime": "22:30",
+    "date": "2025-10-15",
+    "address": {
+      "zipCode": "01310-100",
+      "street": "Rua Augusta",
+      "number": "1475",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Festival com os melhores filmes europeus do ano."
+  },
+  {
+    "id": 82,
+    "categoryId": 5,
+    "name": "Ciclo de Cinema Nacional",
+    "startTime": "16:00",
+    "endTime": "23:00",
+    "date": "2025-10-20",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Frei Caneca",
+      "number": "569",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Retrospectiva do cinema brasileiro contemporâneo."
+  },
+  {
+    "id": 83,
+    "categoryId": 5,
+    "name": "Cinema Asiático em Foco",
+    "startTime": "17:30",
+    "endTime": "22:00",
+    "date": "2025-10-25",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Avenida Paulista",
+      "number": "2073",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5577,
+      "longitude": -46.6489
+    },
+    "descricao": "Mostra especial de filmes japoneses, coreanos e chineses."
+  },
+  {
+    "id": 84,
+    "categoryId": 5,
+    "name": "Documentários Premiados",
+    "startTime": "15:00",
+    "endTime": "21:00",
+    "date": "2025-11-01",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Joaquim Floriano",
+      "number": "541",
+      "logradouro": "Rua",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5818,
+      "longitude": -46.6799
+    },
+    "descricao": "Exibição de documentários premiados internacionalmente."
+  },
+  {
+    "id": 85,
+    "categoryId": 5,
+    "name": "Noite de Cinema Cult",
+    "startTime": "20:00",
+    "endTime": "23:30",
+    "date": "2025-11-05",
+    "address": {
+      "zipCode": "05416-010",
+      "street": "Rua dos Pinheiros",
+      "number": "355",
+      "logradouro": "Rua",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5665,
+      "longitude": -46.6907
+    },
+    "descricao": "Sessão especial de filmes cult clássicos."
+  },
+  {
+    "id": 86,
+    "categoryId": 5,
+    "name": "Festival de Curtas-Metragens",
+    "startTime": "14:00",
+    "endTime": "22:00",
+    "date": "2025-11-10",
+    "address": {
+      "zipCode": "01310-100",
+      "street": "Rua da Consolação",
+      "number": "3000",
+      "logradouro": "Rua",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5628,
+      "longitude": -46.6665
+    },
+    "descricao": "Mostra competitiva de curtas-metragens nacionais."
+  },
+  {
+    "id": 87,
+    "categoryId": 5,
+    "name": "Cinema Latino-Americano",
+    "startTime": "16:30",
+    "endTime": "23:00",
+    "date": "2025-11-15",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Oscar Freire",
+      "number": "2250",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Seleção de filmes premiados da América Latina."
+  },
+  {
+    "id": 88,
+    "categoryId": 5,
+    "name": "Maratona de Ficção Científica",
+    "startTime": "12:00",
+    "endTime": "00:00",
+    "date": "2025-11-20",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Alameda Santos",
+      "number": "1000",
+      "logradouro": "Alameda",
+      "neighborhood": "Jardim Paulista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "12 horas de filmes clássicos de ficção científica."
+  },
+  {
+    "id": 89,
+    "categoryId": 5,
+    "name": "Cinema Infantil - Férias Animadas",
+    "startTime": "10:00",
+    "endTime": "18:00",
+    "date": "2025-11-25",
+    "address": {
+      "zipCode": "04531-011",
+      "street": "Rua Leopoldo Couto Magalhães Jr",
+      "number": "1000",
+      "logradouro": "Rua",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5818,
+      "longitude": -46.6799
+    },
+    "descricao": "Festival de animação para toda a família."
+  },
+  {
+    "id": 90,
+    "categoryId": 5,
+    "name": "Clássicos do Terror",
+    "startTime": "18:00",
+    "endTime": "00:00",
+    "date": "2025-12-01",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Augusta",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Noite de filmes clássicos do terror."
+  },
+  {
+    "id": 91,
+    "categoryId": 5,
+    "name": "Cinema Independente",
+    "startTime": "15:30",
+    "endTime": "22:30",
+    "date": "2025-12-05",
+    "address": {
+      "zipCode": "01310-100",
+      "street": "Rua Bela Cintra",
+      "number": "1200",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5507,
+      "longitude": -46.6601
+    },
+    "descricao": "Mostra de filmes independentes internacionais."
+  },
+  {
+    "id": 92,
+    "categoryId": 5,
+    "name": "Cinema ao Ar Livre",
+    "startTime": "19:30",
+    "endTime": "22:00",
+    "date": "2025-12-10",
+    "address": {
+      "zipCode": "04094-050",
+      "street": "Avenida Pedro Álvares Cabral",
+      "number": "s/n",
+      "logradouro": "Avenida",
+      "neighborhood": "Ibirapuera",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5874,
+      "longitude": -46.6576
+    },
+    "descricao": "Exibição de filmes clássicos no Parque Ibirapuera."
+  },
+  {
+    "id": 93,
+    "categoryId": 5,
+    "name": "Cinema Francês",
+    "startTime": "16:00",
+    "endTime": "23:00",
+    "date": "2025-12-15",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Pamplona",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Jardim Paulista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Semana do cinema francês contemporâneo."
+  },
+  {
+    "id": 94,
+    "categoryId": 5,
+    "name": "Cinema e Música",
+    "startTime": "17:00",
+    "endTime": "21:30",
+    "date": "2025-12-20",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Rua Itapeva",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5577,
+      "longitude": -46.6489
+    },
+    "descricao": "Exibição de filmes musicais clássicos e contemporâneos."
+  },
+  {
+    "id": 95,
+    "categoryId": 5,
+    "name": "Cine Debate",
+    "startTime": "19:00",
+    "endTime": "23:00",
+    "date": "2025-12-25",
+    "address": {
+      "zipCode": "01310-100",
+      "street": "Alameda Franca",
+      "number": "1000",
+      "logradouro": "Alameda",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Exibição seguida de debate com críticos de cinema."
+  },
+  {
+    "id": 96,
+    "categoryId": 5,
+    "name": "Cinema Negro em Destaque",
+    "startTime": "15:00",
+    "endTime": "22:00",
+    "date": "2025-12-30",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Estados Unidos",
+      "number": "2000",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Mostra de filmes de diretores negros brasileiros."
+  },
+  {
+    "id": 97,
+    "categoryId": 5,
+    "name": "Cinema LGBTQ+",
+    "startTime": "16:00",
+    "endTime": "23:00",
+    "date": "2026-01-05",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Rua Augusta",
+      "number": "2000",
+      "logradouro": "Rua",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5628,
+      "longitude": -46.6665
+    },
+    "descricao": "Festival de cinema com temática LGBTQ+."
+  },
+  {
+    "id": 98,
+    "categoryId": 5,
+    "name": "Mostra de Cinema Ambiental",
+    "startTime": "14:00",
+    "endTime": "20:00",
+    "date": "2026-01-10",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Oscar Freire",
+      "number": "2500",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Documentários e filmes sobre meio ambiente e sustentabilidade."
+  },
+  {
+    "id": 99,
+    "categoryId": 5,
+    "name": "Cinema Mudo com Orquestra",
+    "startTime": "20:00",
+    "endTime": "22:30",
+    "date": "2026-01-15",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Rua João Cachoeira",
+      "number": "899",
+      "logradouro": "Rua",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5818,
+      "longitude": -46.6799
+    },
+    "descricao": "Exibição de filmes mudos com acompanhamento de orquestra ao vivo."
+  },
+  {
+    "id": 100,
+    "categoryId": 5,
+    "name": "Maratona Oscar",
+    "startTime": "10:00",
+    "endTime": "23:00",
+    "date": "2026-01-20",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Avenida Brigadeiro Faria Lima",
+      "number": "2232",
+      "logradouro": "Avenida",
+      "neighborhood": "Jardim Paulistano",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5703,
+      "longitude": -46.6661
+    },
+    "descricao": "Exibição dos principais filmes indicados ao Oscar 2026."
+  },
+  {
+    "id": 121,
+    "categoryId": 6,
+    "name": "Festival Gastronômico de SP",
+    "startTime": "11:00",
+    "endTime": "23:00",
+    "date": "2025-10-15",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Joaquim Floriano",
+      "number": "541",
+      "logradouro": "Rua",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5912,
+      "longitude": -46.6818
+    },
+    "descricao": "Festival com os melhores restaurantes e food trucks da cidade."
+  },
+  {
+    "id": 122,
+    "categoryId": 6,
+    "name": "Festival de Música Eletrônica",
+    "startTime": "16:00",
+    "endTime": "04:00",
+    "date": "2025-10-20",
+    "address": {
+      "zipCode": "04094-050",
+      "street": "Avenida Pedro Álvares Cabral",
+      "number": "s/n",
+      "logradouro": "Avenida",
+      "neighborhood": "Ibirapuera",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.587414,
+      "longitude": -46.655881
+    },
+    "descricao": "O maior festival de música eletrônica ao ar livre de São Paulo."
+  },
+  {
+    "id": 123,
+    "categoryId": 6,
+    "name": "Festival de Cultura Japonesa",
+    "startTime": "10:00",
+    "endTime": "22:00",
+    "date": "2025-10-25",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua São Joaquim",
+      "number": "381",
+      "logradouro": "Rua",
+      "neighborhood": "Liberdade",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5505,
+      "longitude": -46.632
+    },
+    "descricao": "Celebração da cultura japonesa com comidas, shows e exposições."
+  },
+  {
+    "id": 124,
+    "categoryId": 6,
+    "name": "Festival de Cerveja Artesanal",
+    "startTime": "14:00",
+    "endTime": "23:00",
+    "date": "2025-11-01",
+    "address": {
+      "zipCode": "05001-200",
+      "street": "Rua Clélia",
+      "number": "1000",
+      "logradouro": "Rua",
+      "neighborhood": "Pompeia",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5299,
+      "longitude": -46.6772
+    },
+    "descricao": "Festival com as melhores cervejarias artesanais do Brasil."
+  },
+  {
+    "id": 125,
+    "categoryId": 6,
+    "name": "Festival Cultural Nordestino",
+    "startTime": "12:00",
+    "endTime": "22:00",
+    "date": "2025-11-05",
+    "address": {
+      "zipCode": "03003-000",
+      "street": "Rua Oriente",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Brás",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5334,
+      "longitude": -46.6096
+    },
+    "descricao": "Celebração da cultura nordestina com música, dança e culinária típica."
+  },
+  {
+    "id": 126,
+    "categoryId": 6,
+    "name": "Festival de Arte Urbana",
+    "startTime": "10:00",
+    "endTime": "20:00",
+    "date": "2025-11-10",
+    "address": {
+      "zipCode": "05416-010",
+      "street": "Rua dos Pinheiros",
+      "number": "355",
+      "logradouro": "Rua",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "Festival com grafite ao vivo, batalhas de rap e shows de hip hop."
+  },
+  {
+    "id": 127,
+    "categoryId": 6,
+    "name": "Festival Vegano",
+    "startTime": "09:00",
+    "endTime": "21:00",
+    "date": "2025-11-15",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Augusta",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.551481,
+      "longitude": -46.650407
+    },
+    "descricao": "O maior festival vegano da América Latina com food trucks e palestras."
+  },
+  {
+    "id": 128,
+    "categoryId": 6,
+    "name": "Festival de Literatura",
+    "startTime": "10:00",
+    "endTime": "20:00",
+    "date": "2025-11-20",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Rua Itapeva",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5566,
+      "longitude": -46.6629
+    },
+    "descricao": "Festival literário com autores nacionais e internacionais."
+  },
+  {
+    "id": 129,
+    "categoryId": 6,
+    "name": "Festival do Café",
+    "startTime": "09:00",
+    "endTime": "19:00",
+    "date": "2025-11-25",
+    "address": {
+      "zipCode": "01310-100",
+      "street": "Alameda Santos",
+      "number": "1000",
+      "logradouro": "Alameda",
+      "neighborhood": "Jardim Paulista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5641,
+      "longitude": -46.6548
+    },
+    "descricao": "Festival dedicado à cultura do café com baristas renomados."
+  },
+  {
+    "id": 130,
+    "categoryId": 6,
+    "name": "Festival de Jazz",
+    "startTime": "17:00",
+    "endTime": "23:00",
+    "date": "2025-12-01",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Oscar Freire",
+      "number": "2500",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.564964,
+      "longitude": -46.669886
+    },
+    "descricao": "Festival internacional de jazz com artistas renomados."
+  },
+  {
+    "id": 131,
+    "categoryId": 6,
+    "name": "Festival de Jogos e eSports",
+    "startTime": "10:00",
+    "endTime": "22:00",
+    "date": "2025-12-05",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Funchal",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Vila Olímpia",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.59397,
+      "longitude": -46.689578
+    },
+    "descricao": "Festival de games com torneios, cosplay e lançamentos."
+  },
+  {
+    "id": 132,
+    "categoryId": 6,
+    "name": "Festival de Cinema Independente",
+    "startTime": "14:00",
+    "endTime": "23:00",
+    "date": "2025-12-10",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Rua da Consolação",
+      "number": "3000",
+      "logradouro": "Rua",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "Festival dedicado ao cinema independente brasileiro."
+  },
+  {
+    "id": 133,
+    "categoryId": 6,
+    "name": "Festival de Cultura Maker",
+    "startTime": "09:00",
+    "endTime": "20:00",
+    "date": "2025-12-15",
+    "address": {
+      "zipCode": "05001-200",
+      "street": "Rua Barão do Bananal",
+      "number": "1000",
+      "logradouro": "Rua",
+      "neighborhood": "Pompeia",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5298,
+      "longitude": -46.678
+    },
+    "descricao": "Festival de tecnologia e inovação com workshops e exposições."
+  },
+  {
+    "id": 134,
+    "categoryId": 6,
+    "name": "Festival de Blues",
+    "startTime": "16:00",
+    "endTime": "02:00",
+    "date": "2025-12-20",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Avenida Brigadeiro Faria Lima",
+      "number": "2232",
+      "logradouro": "Avenida",
+      "neighborhood": "Jardim Paulistano",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5785,
+      "longitude": -46.6824
+    },
+    "descricao": "Festival de blues com bandas nacionais e internacionais."
+  },
+  {
+    "id": 135,
+    "categoryId": 6,
+    "name": "Festival de Natal",
+    "startTime": "15:00",
+    "endTime": "23:00",
+    "date": "2025-12-25",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Avenida Paulista",
+      "number": "1000",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "Festival natalino com coral, decoração e atrações especiais."
+  },
+  {
+    "id": 136,
+    "categoryId": 6,
+    "name": "Festival de Ano Novo",
+    "startTime": "20:00",
+    "endTime": "04:00",
+    "date": "2025-12-31",
+    "address": {
+      "zipCode": "04094-050",
+      "street": "Avenida Pedro Álvares Cabral",
+      "number": "s/n",
+      "logradouro": "Avenida",
+      "neighborhood": "Ibirapuera",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.587414,
+      "longitude": -46.655881
+    },
+    "descricao": "Festival de réveillon com shows e queima de fogos."
+  },
+  {
+    "id": 137,
+    "categoryId": 6,
+    "name": "Festival de Verão",
+    "startTime": "14:00",
+    "endTime": "23:00",
+    "date": "2026-01-05",
+    "address": {
+      "zipCode": "04094-050",
+      "street": "Avenida Pedro Álvares Cabral",
+      "number": "s/n",
+      "logradouro": "Avenida",
+      "neighborhood": "Ibirapuera",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.587414,
+      "longitude": -46.655881
+    },
+    "descricao": "Festival de música ao ar livre com diversos artistas."
+  },
+  {
+    "id": 138,
+    "categoryId": 6,
+    "name": "Festival de Chocolate",
+    "startTime": "10:00",
+    "endTime": "20:00",
+    "date": "2026-01-10",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Oscar Freire",
+      "number": "2500",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.564964,
+      "longitude": -46.669886
+    },
+    "descricao": "Festival dedicado ao chocolate com chefs renomados."
+  },
+  {
+    "id": 139,
+    "categoryId": 6,
+    "name": "Festival de Cultura Italiana",
+    "startTime": "11:00",
+    "endTime": "22:00",
+    "date": "2026-01-15",
+    "address": {
+      "zipCode": "01127-000",
+      "street": "Rua São Caetano",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Bom Retiro",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5329,
+      "longitude": -46.6352
+    },
+    "descricao": "Festival celebrando a cultura italiana com gastronomia e shows."
+  },
+  {
+    "id": 140,
+    "categoryId": 6,
+    "name": "Festival de Carnaval",
+    "startTime": "13:00",
+    "endTime": "23:00",
+    "date": "2026-01-20",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Avenida Paulista",
+      "number": "s/n",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "Pré-carnaval com blocos, escolas de samba e shows."
+  },
+  {
+    "id": 141,
+    "categoryId": 7,
+    "name": "Noite de Comédia Stand-up",
+    "startTime": "20:00",
+    "endTime": "22:30",
+    "date": "2025-10-15",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Augusta",
+      "number": "1470",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.551481,
+      "longitude": -46.650407
+    },
+    "descricao": "Show de stand-up com os melhores comediantes do momento."
+  },
+  {
+    "id": 142,
+    "categoryId": 7,
+    "name": "Comedy Club SP",
+    "startTime": "21:00",
+    "endTime": "23:00",
+    "date": "2025-10-20",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Joaquim Floriano",
+      "number": "541",
+      "logradouro": "Rua",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5912,
+      "longitude": -46.6818
+    },
+    "descricao": "Show com revelações do stand-up comedy nacional."
+  },
+  {
+    "id": 143,
+    "categoryId": 7,
+    "name": "Comédia ao Vivo",
+    "startTime": "19:30",
+    "endTime": "22:00",
+    "date": "2025-10-25",
+    "address": {
+      "zipCode": "05416-010",
+      "street": "Rua dos Pinheiros",
+      "number": "355",
+      "logradouro": "Rua",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "Noite de stand-up com participação especial do público."
+  },
+  {
+    "id": 144,
+    "categoryId": 7,
+    "name": "Quinta do Riso",
+    "startTime": "20:30",
+    "endTime": "23:00",
+    "date": "2025-11-01",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Rua Bela Cintra",
+      "number": "1200",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5585,
+      "longitude": -46.6622
+    },
+    "descricao": "Stand-up comedy com novos talentos do humor."
+  },
+  {
+    "id": 145,
+    "categoryId": 7,
+    "name": "Comedy Night Experience",
+    "startTime": "21:30",
+    "endTime": "23:30",
+    "date": "2025-11-05",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Oscar Freire",
+      "number": "2500",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.564964,
+      "longitude": -46.669886
+    },
+    "descricao": "Show especial com os maiores names do stand-up brasileiro."
+  },
+  {
+    "id": 146,
+    "categoryId": 7,
+    "name": "Open Mic Night",
+    "startTime": "20:00",
+    "endTime": "22:00",
+    "date": "2025-11-10",
+    "address": {
+      "zipCode": "01310-100",
+      "street": "Rua da Consolação",
+      "number": "3000",
+      "logradouro": "Rua",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "Noite aberta para novos comediantes mostrarem seu talento."
+  },
+  {
+    "id": 147,
+    "categoryId": 7,
+    "name": "Comédia em Dobro",
+    "startTime": "19:00",
+    "endTime": "23:00",
+    "date": "2025-11-15",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Funchal",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Vila Olímpia",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.59397,
+      "longitude": -46.689578
+    },
+    "descricao": "Dois shows de stand-up comedy em uma única noite."
+  },
+  {
+    "id": 148,
+    "categoryId": 7,
+    "name": "Stand-up no Teatro",
+    "startTime": "20:00",
+    "endTime": "22:30",
+    "date": "2025-11-20",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Avenida Paulista",
+      "number": "1515",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "Especial de comédia stand-up em ambiente teatral."
+  },
+  {
+    "id": 149,
+    "categoryId": 7,
+    "name": "Comédia Internacional",
+    "startTime": "21:00",
+    "endTime": "23:00",
+    "date": "2025-11-25",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Augusta",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.551481,
+      "longitude": -46.650407
+    },
+    "descricao": "Show de stand-up com comediantes internacionais."
+  },
+  {
+    "id": 150,
+    "categoryId": 7,
+    "name": "Domingo de Risos",
+    "startTime": "19:00",
+    "endTime": "21:30",
+    "date": "2025-12-01",
+    "address": {
+      "zipCode": "05416-010",
+      "street": "Rua dos Pinheiros",
+      "number": "355",
+      "logradouro": "Rua",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "Especial de domingo com os melhores do stand-up."
+  },
+  {
+    "id": 151,
+    "categoryId": 7,
+    "name": "Comedy Underground",
+    "startTime": "22:00",
+    "endTime": "00:00",
+    "date": "2025-12-05",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Rua da Consolação",
+      "number": "2000",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "Show alternativo de comédia em ambiente intimista."
+  },
+  {
+    "id": 152,
+    "categoryId": 7,
+    "name": "Comédia em Família",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "date": "2025-12-10",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Joaquim Floriano",
+      "number": "541",
+      "logradouro": "Rua",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5912,
+      "longitude": -46.6818
+    },
+    "descricao": "Show de stand-up com classificação livre para toda família."
+  },
+  {
+    "id": 153,
+    "categoryId": 7,
+    "name": "Stand-up e Improviso",
+    "startTime": "20:30",
+    "endTime": "22:30",
+    "date": "2025-12-15",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Augusta",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.551481,
+      "longitude": -46.650407
+    },
+    "descricao": "Mistura de stand-up comedy com improvisação teatral."
+  },
+  {
+    "id": 154,
+    "categoryId": 7,
+    "name": "Comédia na Cobertura",
+    "startTime": "19:30",
+    "endTime": "22:00",
+    "date": "2025-12-20",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Avenida Paulista",
+      "number": "1000",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "Show de stand-up em rooftop com vista para a cidade."
+  },
+  {
+    "id": 155,
+    "categoryId": 7,
+    "name": "Especial de Natal",
+    "horarioIFicio": "21:00",
+    "endTime": "23:00",
+    "date": "2025-12-25",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Oscar Freire",
+      "number": "2500",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.564964,
+      "longitude": -46.669886
+    },
+    "descricao": "Stand-up comedy com temática natalina."
+  },
+  {
+    "id": 156,
+    "categoryId": 7,
+    "name": "Comédia de Fim de Ano",
+    "startTime": "22:00",
+    "endTime": "00:00",
+    "date": "2025-12-30",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Funchal",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Vila Olímpia",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.59397,
+      "longitude": -46.689578
+    },
+    "descricao": "Retrospectiva cômica do ano em formato stand-up."
+  },
+  {
+    "id": 157,
+    "categoryId": 7,
+    "name": "Comedy Brunch",
+    "startTime": "11:00",
+    "endTime": "14:00",
+    "date": "2026-01-05",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Rua Haddock Lobo",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.56314,
+      "longitude": -46.66412
+    },
+    "descricao": "Brunch com apresentação de stand-up comedy."
+  },
+  {
+    "id": 158,
+    "categoryId": 7,
+    "name": "Battle of Comics",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "date": "2026-01-10",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Augusta",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.551481,
+      "longitude": -46.650407
+    },
+    "descricao": "Competição de stand-up comedy com eliminatórias."
+  },
+  {
+    "id": 159,
+    "categoryId": 7,
+    "name": "Stand-up & Jazz",
+    "startTime": "21:00",
+    "endTime": "23:30",
+    "date": "2026-01-15",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Joaquim Floriano",
+      "number": "541",
+      "logradouro": "Rua",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5912,
+      "longitude": -46.6818
+    },
+    "descricao": "Noite de comédia com jazz ao vivo nos intervalos."
+  },
+  {
+    "id": 160,
+    "categoryId": 7,
+    "name": "Comedy Weekend",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "date": "2026-01-20",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Rua da Consolação",
+      "number": "3000",
+      "logradouro": "Rua",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "Maratona de stand-up com diversos comediantes."
+  },
+  {
+    "id": 161,
+    "categoryId": 8,
+    "name": "Festa Eletrônica Premium",
+    "startTime": "23:00",
+    "endTime": "06:00",
+    "date": "2025-10-15",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Funchal",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Vila Olímpia",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.59397,
+      "longitude": -46.689578
+    },
+    "descricao": "Festa com os melhores DJs de música eletrônica."
+  },
+  {
+    "id": 162,
+    "categoryId": 8,
+    "name": "Noite do Funk",
+    "startTime": "22:00",
+    "endTime": "05:00",
+    "date": "2025-10-20",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Augusta",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.551481,
+      "longitude": -46.650407
+    },
+    "descricao": "A maior festa de funk de São Paulo."
+  },
+  {
+    "id": 163,
+    "categoryId": 8,
+    "name": "Festa Anos 80",
+    "startTime": "21:00",
+    "endTime": "04:00",
+    "date": "2025-10-25",
+    "address": {
+      "zipCode": "05416-010",
+      "street": "Rua dos Pinheiros",
+      "number": "355",
+      "logradouro": "Rua",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "Festa temática com hits dos anos 80."
+  },
+  {
+    "id": 164,
+    "categoryId": 8,
+    "name": "Balada Pop",
+    "startTime": "23:00",
+    "endTime": "05:00",
+    "date": "2025-11-01",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Avenida Paulista",
+      "number": "2000",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "A melhor festa pop da cidade."
+  },
+  {
+    "id": 165,
+    "categoryId": 8,
+    "name": "Samba de Raiz",
+    "startTime": "20:00",
+    "endTime": "03:00",
+    "date": "2025-11-05",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua 13 de Maio",
+      "number": "700",
+      "logradouro": "Rua",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.559,
+      "longitude": -46.646
+    },
+    "descricao": "Noite de samba autêntico com roda de samba ao vivo."
+  },
+  {
+    "id": 166,
+    "categoryId": 8,
+    "name": "Festa Hip Hop",
+    "startTime": "22:00",
+    "endTime": "04:00",
+    "date": "2025-11-10",
+    "address": {
+      "zipCode": "01310-100",
+      "street": "Rua Augusta",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.551481,
+      "longitude": -46.650407
+    },
+    "descricao": "A maior festa de hip hop da cidade."
+  },
+  {
+    "id": 167,
+    "categoryId": 8,
+    "name": "Latino Night",
+    "startTime": "23:00",
+    "endTime": "05:00",
+    "date": "2025-11-15",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Joaquim Floriano",
+      "number": "541",
+      "logradouro": "Rua",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5912,
+      "longitude": -46.6818
+    },
+    "descricao": "Noite latina com salsa, bachata e reggaeton."
+  },
+  {
+    "id": 168,
+    "categoryId": 8,
+    "name": "Rock Night",
+    "startTime": "21:00",
+    "endTime": "04:00",
+    "date": "2025-11-20",
+    "address": {
+      "zipCode": "05416-010",
+      "street": "Rua dos Pinheiros",
+      "number": "355",
+      "logradouro": "Rua",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.561356,
+      "longitude": -46.66886
+    },
+    "descricao": "A melhor festa de rock da cidade."
+  },
+  {
+    "id": 169,
+    "categoryId": 8,
+    "name": "Sunset Party",
+    "startTime": "16:00",
+    "endTime": "23:00",
+    "date": "2025-11-25",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Avenida Brigadeiro Faria Lima",
+      "number": "2232",
+      "logradouro": "Avenida",
+      "neighborhood": "Jardim Paulistano",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5678,
+      "longitude": -46.6705
+    },
+    "descricao": "Festa ao pôr do sol com música eletrônica."
+  },
+  {
+    "id": 170,
+    "categoryId": 8,
+    "name": "Baile Black",
+    "startTime": "22:00",
+    "endTime": "05:00",
+    "date": "2025-12-01",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Augusta",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.551481,
+      "longitude": -46.650407
+    },
+    "descricao": "O melhor do R&B, Soul e Hip Hop."
+  },
+  {
+    "id": 171,
+    "categoryId": 8,
+    "name": "Festa Indie",
+    "startTime": "21:00",
+    "endTime": "04:00",
+    "date": "2025-12-05",
+    "address": {
+      "zipCode": "05416-010",
+      "street": "Rua dos Pinheiros",
+      "number": "355",
+      "logradouro": "Rua",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5613564,
+      "longitude": -46.6688595
+    },
+    "descricao": "A melhor música alternativa e indie rock."
+  },
+  {
+    "id": 172,
+    "categoryId": 8,
+    "name": "Retro Party",
+    "startTime": "22:00",
+    "endTime": "05:00",
+    "date": "2025-12-10",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Rua da Consolação",
+      "number": "3000",
+      "logradouro": "Rua",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5613564,
+      "longitude": -46.6688595
+    },
+    "descricao": "Festa com hits dos anos 70, 80 e 90."
+  },
+  {
+    "id": 173,
+    "categoryId": 8,
+    "name": "Festa Universitária",
+    "startTime": "23:00",
+    "endTime": "06:00",
+    "date": "2025-12-15",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Funchal",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Vila Olímpia",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.59397,
+      "longitude": -46.6895784
+    },
+    "descricao": "A maior festa universitária de São Paulo."
+  },
+  {
+    "id": 174,
+    "categoryId": 8,
+    "name": "House Music Night",
+    "startTime": "23:00",
+    "endTime": "06:00",
+    "date": "2025-12-20",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Augusta",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.551481,
+      "longitude": -46.650407
+    },
+    "descricao": "Noite dedicada ao melhor da house music."
+  },
+  {
+    "id": 175,
+    "categoryId": 8,
+    "name": "Festa de Natal",
+    "startTime": "22:00",
+    "endTime": "05:00",
+    "date": "2025-12-24",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Funchal",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Vila Olímpia",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.59397,
+      "longitude": -46.6895784
+    },
+    "descricao": "Festa especial de Natal com várias atrações."
+  },
+  {
+    "id": 176,
+    "categoryId": 8,
+    "name": "Réveillon Premium",
+    "startTime": "22:00",
+    "endTime": "06:00",
+    "date": "2025-12-31",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Avenida Paulista",
+      "number": "2000",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5613564,
+      "longitude": -46.6688595
+    },
+    "descricao": "A melhor festa de Ano Novo da cidade."
+  },
+  {
+    "id": 177,
+    "categoryId": 8,
+    "name": "Summer Party",
+    "startTime": "15:00",
+    "endTime": "23:00",
+    "date": "2026-01-05",
+    "address": {
+      "zipCode": "04094-050",
+      "street": "Avenida Pedro Álvares Cabral",
+      "number": "s/n",
+      "logradouro": "Avenida",
+      "neighborhood": "Ibirapuera",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.58771265,
+      "longitude": -46.6585213937108
+    },
+    "descricao": "Festa de verão ao ar livre com várias atrações."
+  },
+  {
+    "id": 178,
+    "categoryId": 8,
+    "name": "Techno Night",
+    "startTime": "23:00",
+    "endTime": "06:00",
+    "date": "2026-01-10",
+    "address": {
+      "zipCode": "01310-200",
+      "street": "Rua Augusta",
+      "number": "1500",
+      "logradouro": "Rua",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.551481,
+      "longitude": -46.650407
+    },
+    "descricao": "A melhor festa de música techno da cidade."
+  },
+  {
+    "id": 179,
+    "categoryId": 8,
+    "name": "Festa Sertaneja",
+    "startTime": "22:00",
+    "endTime": "05:00",
+    "date": "2026-01-15",
+    "address": {
+      "zipCode": "04547-130",
+      "street": "Rua Funchal",
+      "number": "500",
+      "logradouro": "Rua",
+      "neighborhood": "Vila Olímpia",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.59397,
+      "longitude": -46.6895784
+    },
+    "descricao": "A maior balada sertaneja de São Paulo."
+  },
+  {
+    "id": 180,
+    "categoryId": 8,
+    "name": "Pré-Carnaval",
+    "startTime": "14:00",
+    "endTime": "22:00",
+    "date": "2026-01-20",
+    "address": {
+      "zipCode": "01310-300",
+      "street": "Avenida Paulista",
+      "number": "s/n",
+      "logradouro": "Avenida",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "latitude": -23.5613564,
+      "longitude": -46.6688595
+    },
+    "descricao": "Esquenta para o carnaval com muito samba e axé."
+  }
+]
