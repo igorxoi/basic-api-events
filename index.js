@@ -35,7 +35,6 @@ app.get("/events", (req, res) => {
   }
 
   const eventList = calculateEventDistances(events, latitude, longitude);
-
   const paginatedResult = paginateData(eventList, page, limit);
 
   res.send({
