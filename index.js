@@ -95,6 +95,8 @@ app.get("/event/:id", (req, res) => {
   });
 });
 
+app.use(cors({ origin: 'http://localhost:4200' }));
+
 app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
