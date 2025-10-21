@@ -1,4 +1,5 @@
 const express = require("express");
+const cors = require('cors');
 
 const events = require("./mocks/eventos.json");
 const categories = require("./mocks/categorias.json");
