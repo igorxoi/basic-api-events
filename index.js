@@ -9,12 +9,6 @@ const { paginateData, calculateEventDistances, sendError } = require("./utils");
 const app = express();
 const port = 3000;
 
-app.use(cors({
-  origin: 'http://localhost:4200',
-  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization'],
-}));
-
 app.get("/", (req, res) => {
   res.send("Node Server");
 });
