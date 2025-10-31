@@ -1,5 +1,5 @@
 const express = require("express");
-const cors = require('cors');
+const cors = require("cors");
 
 const events = require("./mocks/eventos.json");
 const categories = require("./mocks/categorias.json");
@@ -8,6 +8,14 @@ const { paginateData, calculateEventDistances, sendError } = require("./utils");
 
 const app = express();
 const port = 3000;
+
+app.use(
+  cors({
+    origin: "*",
+    methods: "*",
+    allowedHeaders: "*",
+  })
+);
 
 app.get("/", (req, res) => {
   res.send("Node Server");
